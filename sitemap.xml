@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blogdarkspot.github.io/</loc>
+    <loc>https://darkspotdev.github.io/</loc>
     <lastmod>2022-11-19T10:14:31-03:00</lastmod>
   </url><url>
-    <loc>https://blogdarkspot.github.io/posts/my-first-post/</loc>
+    <loc>https://darkspotdev.github.io/posts/my-first-post/</loc>
     <lastmod>2022-11-19T10:14:31-03:00</lastmod>
   </url><url>
-    <loc>https://blogdarkspot.github.io/posts/</loc>
+    <loc>https://darkspotdev.github.io/posts/</loc>
     <lastmod>2022-11-19T10:14:31-03:00</lastmod>
   </url><url>
-    <loc>https://blogdarkspot.github.io/categories/</loc>
+    <loc>https://darkspotdev.github.io/categories/</loc>
   </url><url>
-    <loc>https://blogdarkspot.github.io/manifest/index.json</loc>
+    <loc>https://darkspotdev.github.io/manifest/index.json</loc>
   </url><url>
-    <loc>https://blogdarkspot.github.io/search/</loc>
+    <loc>https://darkspotdev.github.io/search/</loc>
   </url><url>
-    <loc>https://blogdarkspot.github.io/tags/</loc>
+    <loc>https://darkspotdev.github.io/tags/</loc>
   </url>
 </urlset>
